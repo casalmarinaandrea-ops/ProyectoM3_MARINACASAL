@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Chat con personajes de Springfield impulsado por Gemini AI" />
+    <title>Springfield Chat</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/src/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand nav-link" href="/home" aria-label="Ir al inicio">
+        <span class="brand-donut" aria-hidden="true">🍩</span>
+        <span>Springfield Chat</span>
+      </a>
+      <button class="menu-button" id="menu-button" aria-label="Abrir menú" aria-expanded="false">☰</button>
+      <nav id="main-nav" aria-label="Navegación principal">
+        <a class="nav-link" href="/home">Inicio</a>
+        <a class="nav-link" href="/characters">Personajes</a>
+        <a class="nav-link" href="/chat">Chat</a>
+        <a class="nav-link" href="/about">Acerca de</a>
+        <button class="theme-button" id="theme-button" aria-label="Cambiar tema">🌙</button>
+      </nav>
+    </header>
+
+    <main id="app" tabindex="-1"></main>
+
+    <footer>
+      <p>Proyecto Integrador M3 · Hecho por Marina · 2026</p>
+      <p class="disclaimer">Proyecto educativo no oficial. Los personajes pertenecen a sus respectivos titulares.</p>
+    </footer>
+
+    <script type="module" src="/src/app.js"></script>
+  </body>
+</html>

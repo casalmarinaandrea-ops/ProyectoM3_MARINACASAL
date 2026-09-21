@@ -1,0 +1,15 @@
+{
+  "name": "springfield-chat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "vercel-dev": "vercel dev",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vercel": "^48.1.6",
+    "vitest": "^3.2.4"
+  }
+}
