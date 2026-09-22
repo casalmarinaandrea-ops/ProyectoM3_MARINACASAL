@@ -60,7 +60,7 @@ Abrí `.env.local` y reemplazá el valor de ejemplo:
 
 ```env
 GEMINI_API_KEY=tu_clave_real
-GEMINI_MODEL=gemini-2.5-flash
+GEMINI_MODEL=gemini-3.6-flash
 ```
 
 Nunca subas `.env.local` a GitHub. Ya está incluido en `.gitignore`.
@@ -116,6 +116,6 @@ Full Stack Developer
 Proyecto Integrador — Módulo 3
 Henry Full Stack Developer
 
-GitHub: https://github.com/
-LinkedIn: https://www.linkedin.com/
+GitHub: https://github.com/casalmarinaandrea-ops
+LinkedIn: www.linkedin.com/in/marina-andrea-casal
 Email: casal.marina.andrea@gmail.com
