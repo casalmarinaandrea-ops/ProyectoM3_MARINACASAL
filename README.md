@@ -1,8 +1,11 @@
 # Springfield Chat 🍩
 
-Single Page Application responsive que permite conversar con Homero, Lisa o Bart usando Google Gemini AI. Fue desarrollada como Proyecto Integrador del Módulo 3 de Full Stack.
+Es una single Page Application responsive que permite conversar con Homero, Lisa o Bart usando Google Gemini AI. Fue desarrollada como Proyecto Integrador del Módulo 3 de Full Stack.
 
 > Proyecto educativo no oficial. Los personajes y nombres mencionados pertenecen a sus respectivos titulares.
+
+## Demo en producción
+https://springfield-chat-p6gjuscus-marina-7ddb.vercel.app 
 
 ## Funcionalidades
 
@@ -104,3 +107,15 @@ Las sugerencias se revisaron mediante lectura del código, ejecución de tests y
 - Se envían como máximo los últimos 16 mensajes para limitar tokens y conservar contexto reciente.
 - El historial se limita a 40 mensajes por personaje en el navegador.
 - El rate limit en memoria reduce abuso básico; en un proyecto productivo convendría usar almacenamiento compartido.
+
+## Autoria
+Marina Andrea Casal
+
+Full Stack Developer
+
+Proyecto Integrador — Módulo 3
+Henry Full Stack Developer
+
+GitHub: https://github.com/
+LinkedIn: https://www.linkedin.com/
+Email: casal.marina.andrea@gmail.com
