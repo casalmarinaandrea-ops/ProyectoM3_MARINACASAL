@@ -6,7 +6,7 @@ Una **Single Page Application responsive** que permite conversar con Homero, Lis
 
 ## 🚀 Demo en producción
 
-https://springfield-chat-6otkzsjdu-marina-7ddb.vercel.app/home
+https://springfield-chat-9tegfiy3p-marina-7ddb.vercel.app/home
 
 ## ✨ Funcionalidades
 
