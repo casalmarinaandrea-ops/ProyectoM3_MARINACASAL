@@ -99,7 +99,6 @@ function homeView() {
     </section>
 
     <section class="page-shell preview-section">
-      <p class="section-kicker">CONOCÉ A LOS PERSONAJES</p>
       <h2>¿Con quién querés hablar hoy?</h2>
 
       <div class="characters-grid compact">
